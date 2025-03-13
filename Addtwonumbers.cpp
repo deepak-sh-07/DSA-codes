@@ -20,6 +20,7 @@ class Solution {
             temp->next = d;
             temp=d; 
          }  
-         return c->next; 
+         return c->next;
+          
         }
     };
